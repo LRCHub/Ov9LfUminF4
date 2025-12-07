@@ -1,0 +1,67 @@
+# Stray Kids – Hollow
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+目もくれず  前見て走ってきた
+引き寄せられたように
+ここまで、ただ
+僕のbucket listには
+たくさんのチェックが
+なぜか  満足できない僕は
+誰か  想い満たして  渇き癒して
+Trying  繰り返す  答えもなく
+どんな言葉も足りない
+どうかお願い、もう
+I can’t take it no more
+全て 抱きしめ  走っても
+Why do I feel hollow
+どんな場所にいても
+孤独になるI’m alone
+愛が必要なのか  一人でいる程
+無理やり満たしてもI’m so
+Hollow,hollow,hollow,oh
+(Oh na na na na)
+Hollow,hollow,hollow,oh
+(Ah)
+Hollow,hollow,hollow,oh
+(Oh na na na na)
+無理やり満たしてもI’m so
+最近の気分は ♯より♭
+こだわり築いたキャリアのstack
+Hall of Fameまだ先 遠くて
+Shinin’star
+その裏はall in black
+＋より−に向く目が
+無駄繰り返していないか
+気が抜けたようで全てが
+辛くて
+誰か  想い満たして  渇き癒して
+Trying  繰り返す  答えもなく
+どんな言葉も足りない
+どうかお願い、もう
+I can’t take it no more
+全て 抱きしめ  走っても
+Why do I feel hollow
+どんな場所にいても
+孤独になるI’m alone
+愛が必要なのか  一人でいる程
+無理やり満たしてもI’m so
+雲の中のmoon
+光りない夜
+名前もない心ah ah
+空を彷徨う
+全て 抱きしめ  走っても
+Why do I feel hollow
+どんな場所にいても
+孤独になるI’m alone
+愛が必要なのか  一人でいる程
+無理やり満たしてもI’m so
+Hollow,hollow,hollow,oh
+(Oh na na na na)
+Hollow,hollow,hollow,oh
+(Ah)
+Hollow,hollow,hollow,oh
+(Oh na na na na)
+無理やり満たしてもI’m so
+```
