@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hollow",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-07T07:24:49.616096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hollow Hour",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/01_The_Hollow_Hour_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "hollow-mas",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_hollow-mas_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hollow Man, Pts. 1 & 2",
+      "artist": "Kula Shaker",
+      "has_synced": false,
+      "path": "select/03_Hollow_Man,_Pts._1_&_2_Kula_Shaker.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Hollow",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/04_The_Hollow_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hollow",
+      "artist": "Alex G",
+      "has_synced": false,
+      "path": "select/05_Hollow_Alex_G.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "hollow tips",
+      "artist": "LiL Lotus feat. 93FEETOFSMOKE & fats'e",
+      "has_synced": false,
+      "path": "select/06_hollow_tips_LiL_Lotus_feat._93FEETOFSMOKE_&_fats'e.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hollow tips",
+      "artist": "LIL LOTUS",
+      "has_synced": false,
+      "path": "select/07_hollow_tips_LIL_LOTUS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hollow (feat. Emma Louise)",
+      "artist": "Flume feat. Emma Louise",
+      "has_synced": true,
+      "path": "select/08_Hollow_(feat._Emma_Louise)_Flume_feat._Emma_Louise.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hollow (feat. Emma Louise)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/09_Hollow_(feat._Emma_Louise)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Sharpest Corner (Hollow)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/10_The_Sharpest_Corner_(Hollow)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Sharpest Corner (Hollow) - Live",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/11_The_Sharpest_Corner_(Hollow)_-_Live_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Sharpest Corner (Hollow) (Unreleased Single Edit)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_The_Sharpest_Corner_(Hollow)_(Unreleased_Single_Edit)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hollow Tree",
+      "artist": "Arthur Russell",
+      "has_synced": false,
+      "path": "select/13_Hollow_Tree_Arthur_Russell.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hollow",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/14_Hollow_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hollow Bones",
+      "artist": "Halou",
+      "has_synced": true,
+      "path": "select/15_Hollow_Bones_Halou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hollow (Original 7 minutes version)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/16_Hollow_(Original_7_minutes_version)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "hollow [original 7 minutes version]",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/17_hollow_[original_7_minutes_version]_Björk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hollow Log",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/18_Hollow_Log_Beck.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hollow",
+      "artist": "Beacon",
+      "has_synced": true,
+      "path": "select/19_Hollow_Beacon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hollow",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Hollow_Stray_Kids.txt"
+    }
+  ]
+}
